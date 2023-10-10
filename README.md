@@ -1,5 +1,6 @@
 # perception-challenge
 ![image](https://github.com/alicyang/perception-challenge/assets/121693495/005c5891-e89b-441e-868b-6d9ffca5d901)
+
 Libraries used: cv2, numpy, matplotlib
 
 Final Methodology: I divided the image into a left and right side, generating mask images by isolating the cones on each side based on     
